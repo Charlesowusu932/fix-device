@@ -89,20 +89,20 @@
              <div class="col-6 col-md-4 mb-5">
                <a href="">
                  <div class="iconcircle centerit">
-                  <img src="img/ Mouse.svg" class="text-center" alt="">
+                  <img src="img/Recover.svg" class="text-center" alt="">
                  </div>
-               <p class="blacknormal"><strong>Computer Repair</strong> </p>
-               <p class="blacknormal">Repair technician will work with five general categories of hardware; desktop computers, laptops, servers…</p>
+               <p class="blacknormal"><strong>Electronics Recovery</strong> </p>
+               <p class="blacknormal">We are engaged in the restoration of any type of technology, as a result of drowning or overheating are not…</p>
                </a>
              </div>
 
              <div class="col-6 col-md-4 mb-5">
                <a href="">
                  <div class="iconcircle centerit">
-                  <img src="img/Electronic.svg" class="text-center" alt="">
+                  <img src="img/noun_Technician_1420728.svg" class="text-center" alt="">
                  </div>
-               <p class="blacknormal"><strong>Smartphone Repair</strong> </p>
-               <p class="blacknormal">If your phone has a broken front glass, non-responsive buttons, a broken camera we can fix it in house…</p>
+               <p class="blacknormal"><strong>Technician</strong> </p>
+               <p class="blacknormal">Connect with a technocian Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem velit illum ap. …</p>
                </a>
              </div>
 
