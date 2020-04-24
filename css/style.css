@@ -1,0 +1,210 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif; sans-serif;
+   font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+.white {
+    color: #ffffff;
+}
+
+
+
+.shrink {
+    background-color: #000000;
+    padding-top: 0;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.topcover {
+    background: url(../img/coverfic.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.smallnavtop {
+  
+        font-size: 13px;
+        color: #ffffff;
+}
+
+
+
+.mainav {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.orange  {
+    color: #228dd7;
+}
+
+
+.balcksmall {
+    color: #000000;
+    font-size: 15px;
+}
+
+.balcksmall:hover {
+    text-decoration: none;
+    color: #228dd7;
+}
+
+
+
+
+.active  {
+    color: #228dd7;
+}
+
+.nav-link:hover, .nav-link:focus {
+    text-decoration: none;
+    color: #228dd7;
+}
+
+
+listtins  {
+    display: list-item;
+}
+
+
+.cocul{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    list-style-type: none;
+    padding-inline-start: 0px;
+    /* padding-bottom: 2rem; */
+}
+
+.bighead {
+    font-size: 60px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.centerit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cocospace {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.smline{
+    display: inline;
+}
+
+.smline:not(:last-child):after {
+    border-right: 1px solid gray;
+}
+
+
+.smline {
+    border-right: 1px solid gray;
+}
+
+  .smline:last-child {
+    border-right: 0px solid gray;
+
+}
+
+
+.coco-blog1 {
+    position: relative;
+    height: 25rem;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    overflow: hidden;
+    border-radius: 0.01px;
+}
+
+.vasimg-blog1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    transition: 0.8s all;
+    transform: scale(1);
+}
+
+.overlay-light-black-blog1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: linear-gradient( rgba(0, 0, 0, 0.31) 0%, rgba(0, 0, 0, 0.83) 100%);
+}
+
+.text-contain2-blog1 {
+    text-align: left;
+    position: relative;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: #FFFFFF;
+    bottom: 1rem;
+
+}
+
+
+.coco-blog1:hover .vasimg-blog1 {
+    transform: scale(1.1);
+  }
+  
+
+  .cocomns  {
+    font-family: 'Playfair Display', serif;
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 41px;
+    color: #228dd7;
+
+   
+}
+
+a {
+ 
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+
+    text-decoration: none;
+}
+
+.booking {
+    width: 100%;
+    min-height: 80vh;
+    background: rgb(13,24,36);
+background: linear-gradient(0deg, rgba(13,24,36,1) 50%, rgba(255,255,255,1) 50%);
+    padding: 5rem 0;
+}
