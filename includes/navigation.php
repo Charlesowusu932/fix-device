@@ -38,13 +38,11 @@
                <a class="nav-link smallnavtop" href="#">Login as a member</a>
             </li>
             <li class="nav-item">
-               <a class="nav-link smallnavtop" href="#">Contact Us </a>
+               <a class="nav-link smallnavtop" href="#">Register </a>
             </li>
+        
             <li class="nav-item">
-               <a class="nav-link smallnavtop" href="#">Media</a>
-            </li>
-            <li class="nav-item">
-               <a class="nav-link smallnavtop" href="#">Cocoa platform</a>
+               <a class="nav-link smallnavtop" href="#">+233 234 7892 34</a>
             </li>
           </ul>
           <!-- small details at the top -->

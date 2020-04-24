@@ -6,85 +6,68 @@
 
 
 <!-- footer -->
-  <footer class="fot py-5">
+  <footer class="fot ">
       <div class="container">
         <div class="row">
 
+        <div class="col-12 mb-3">
+          <hr>
+        </div>
 
-          <div class="col-xl-3">
-          <p class="wc"><strong>FOR YOU</strong></p>
+
+          <div class="col-xl-4">
+          <p class="wc"><strong>FIX DEVICE</strong></p>
       
               <ul class="cocul">
-                <li class="py-1 "> <a href="#" class="balcksmall">Home</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Member login</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Cocoa Link</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">News</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Articles</a></li>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos fugiat, laboriosam earum sed assumenda, reprehenderit officia autem, incidunt corrupti nisi odio. Sunt ullam veritatis magn</P>
               </ul>
           </div>
 
-          <div class="col-xl-3">
-            <p class="wc"><strong>ABOUT US</strong></p>
+          <div class="col-xl-2">
+            <p class="wc"><strong>Quick Links</strong></p>
             
               <ul class="cocul">
-                <li class="py-1 "> <a href="#" class="balcksmall">Objective & function of board</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Sturcture & Operationsn</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Event calender</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">The Ghana Cocoa Story</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Bunso College</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Home</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">About Us</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Services</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Technicians</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Contact Us</a></li>
               </ul>
           </div>
 
           <div class="col-xl-3">
-            <p class="wc"><strong>BUSINESS WITH US</strong></p>
+            <p class="wc"><strong>Services</strong></p>
             <ul class="cocul">
-                <li class="py-1 "> <a href="#" class="balcksmall">Sales Policy of Cocoabod</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Ghana Cocoa Specification</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Procuments</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">The Ghana Cocoa Story</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Bunso College</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Smartphone Repair</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Computer Repair</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Electronics Repair</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Console Repair</a></li>
+                <li class="py-1 "> <a href="#" class="balcksmall">Data Recoveries</a></li>
               </ul>
           </div>
 
 
           <div class="col-xl-3">
-          <p class="wc"><strong>OTHERS</strong></p>
+          <p class="wc"><strong>Contacts</strong></p>
               <ul class="cocul">
-                <li class="py-1 "> <a href="#" class="balcksmall">Our Subsidiaries / Divisions</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Our Managementn</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Photo Gallery</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Media</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Contact us</a></li>
+                <li class="py-1 class="balcksmall">Address: 685 Lane Drive St. Dansoman, 33020s</li>
+
+                <li class="py-1 class="balcksmall">Phone: +233 234 7892 34</li>
+
+                <li class="py-1 class="balcksmall">E-mail: info@fixdevice.com</li>
+ 
               </ul>
           </div>
 
         </div>
 
         <div class="row py-3">
+          <hr>
           <div class="col-6">
-            <small>©2020   -   COCOBOD All rights reserved</small>
+            <small>©2020   -   Fix Device All rights reserved</small>
           </div>
           <div class="col-6">
-            <ul class="nav justify-content-end">
-            <li class="nav-item">
-              <a class="nav-link text-uppercase orange " href="#"><small>Privacy </small></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-uppercase orange " href="#"><small>Terms</small></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-uppercase orange " href="#"><small>Cookies</small></a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link text-uppercase orange " href="#"><small>Accessibility</small></a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link text-uppercase orange " href="#"><small>FAQ</small></a>
-            </li>
-            
-          </ul>
+          
           </div>
         </div>
       </div>

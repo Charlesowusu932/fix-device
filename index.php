@@ -193,6 +193,29 @@ Let us help! If your phone has a broken front glass, non-responsive buttons</p>
   
 <!-- Technicians talk -->
 
+      <!-- We can help you now, fill out an application! -->
+      <section class="fixglobalspace2">
+           <div class="container">
+             <div class="row centerit">
+            
+
+             <div class="col-12 col-md-8 ">
+               <img src="img/mac.jpg" class="img-fluid" alt="">
+             </div>
+
+             <div class="col-12 col-md-4">
+               <h1><strong>We can help you now, fix all your broken device!</strong> </h1>
+               <p class="py-3">
+Let us help! If your phone has a broken front glass, non-responsive buttons</p>
+
+<small>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi beatae reprehenderit repudiandae aspernatur perspiciatis fugiat sint exercitationem perferendis, officia vel similique corrupti ad assumenda mollitia impedit, dicta ut dignissimos. Architecto?</small>
+             </div>
+
+             </div>
+           </div>
+        </section>
+     <!-- We can help you now, fill out an application! -->
+
   
 
   

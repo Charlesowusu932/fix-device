@@ -148,8 +148,8 @@ body {
     padding-top: 7.6rem;
     padding-bottom: 7.6rem;
     position: relative;
+    background: #f7f8f9;
 }
-
 
 .left-cover {
     position: absolute;
@@ -172,6 +172,9 @@ body {
 
 }
 
+.fot {
+    padding-top: 2rem; 
+}
 
 
 
