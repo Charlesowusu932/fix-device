@@ -42,7 +42,7 @@
 
     <!-- services -->
       <section class="fixglobalspace">
-        <div class="container">
+        <div class="container pt-5">
           <div class="row">
 
              <div class="col-6 col-md-4 mb-5">
@@ -111,163 +111,91 @@
       </section>
       <!-- services -->
 
+
+      <!-- We can help you now, fill out an application! -->
+        <section class="fixglobalspace2">
+           <div class="container">
+             <div class="row centerit">
+             <div class="col-12 col-md-5">
+               <h1><strong>We can help you now, fix all your broken device!</strong> </h1>
+               <p class="py-3">
+Let us help! If your phone has a broken front glass, non-responsive buttons</p>
+
+<small>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi beatae reprehenderit repudiandae aspernatur perspiciatis fugiat sint exercitationem perferendis, officia vel similique corrupti ad assumenda mollitia impedit, dicta ut dignissimos. Architecto?</small>
+             </div>
+
+             <div class="col-12 col-md-7 pl-md-4">
+               <img src="img/iphonex.png" class="img-fluid" alt="">
+             </div>
+
+             </div>
+           </div>
+        </section>
+     <!-- We can help you now, fill out an application! -->
+
+
+<!-- Technicians talk -->
+
+<div class="sub1">
+    <div class="left-cover"></div>
+    <div class="container-fluid ">
+      <div class="row">
+        <div class="col-12 col-md-5">
+        </div>
+        <div class="col-12 col-md-6 pr-md-0">
+        <div class="text-right mb-5">
+        <h1 class=""><strong>Popular Technicians</strong> </h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ipsam quam <br>  laboriosam, vel cumque animi labore ipsa cum.</p>
+        </div>
+
+            <div class="row">
+
+              <div class="col-6 col-md-3 text-center mb-4">
+                <a href="#">
+                <img src="img/techArtboard1.jpg" class="rounded-circle tecni" alt="">
+                <p class="mb-0 blacknormal pt-3"><strong>James Kphago</strong> </p>
+                <small class="balckmini">Expert</small>
+                </a>
+              </div>
+
+              <div class="col-6 col-md-3 text-center mb-4">
+                <a href="#">
+                <img src="img/techArtboard2.jpg" class="rounded-circle tecni" alt="">
+                <p class="mb-0 blacknormal pt-3"><strong>James Kphago</strong> </p>
+                <small class="balckmini">Pro</small>
+                </a>
+              </div>
+
+              <div class="col-6 col-md-3 text-center mb-4">
+                <a href="#">
+                <img src="img/techArtboard3.jpg" class="rounded-circle tecni" alt="">
+                <p class="mb-0 blacknormal pt-3"><strong>James Kphago</strong> </p>
+                <small class="balckmini">Expert</small>
+                </a>
+              </div>
+
+              <div class="col-6 col-md-3 text-center mb-4">
+                <a href="#">
+                <img src="img/techArtboard4.jpg" class="rounded-circle tecni" alt="">
+                <p class="mb-0 blacknormal pt-3"><strong>James Kphago</strong> </p>
+                <small class="balckmini">Mid</small>
+                </a>
+              </div>
+
+
+            </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+<!-- Technicians talk -->
+
   
 
-  <!-- Latest News from us -->
-    <section class="cocospace">
-      <div class="container-fluid container-coco ">
-
-        <div class="row centerit mb-5">
-        <div class="col-12 col-md-6">
-          <h1 class="bighead">Latest News <br> from us</h1>
-        </div>
-
-        <div class="col-12 col-md-6 text-right">
-          <a href="" class="balcksmall "><strong>View All </strong> 
-          <span class="px-2"><img src="img/next.svg" alt="" width="10"> </span>
-          <span ><img src="img/prev.svg" alt="" width="10"> </span>
-        </a>
-        </div>
-        </div>
-
-        <div class="row">
-          <div class="col-12 col-md-4 px-4 pb-3 smline">
-            <p class="pb-1 h-50">COCOA FARMING MADE EASY AS COCOBOD TAKES DELIVERY OF 100,000 MOTORISED SLASHERS & PRUNERS</p>
-            <p class="mb-0 underline">12.08.2019</p>
-            <a href="#" class="balcksmall"><small>Read More</small></a>
-          </div>
-
-          <div class="col-12 col-md-4 px-4 pb-3 smline">
-            <p class="pb-1 h-50">“GHANA, COTE D’IVOIRE STRATEGIC PARTNERSHIP ENHANCING COCOA FARMERS’ INCOMES” – PRESIDENT AKUFO-ADDO</p>
-            <p class="mb-0 underline">12.08.2019</p>
-            <a href="#" class="balcksmall"><small>Read More</small></a>
-          </div>
-
-          <div class="col-12 col-md-4 px-4 pb-3 smline">
-            <p class="pb-1 h-50">SAMUEL TETTEH KORBOE WINS INTERNATIONAL COCOA AWARDS</p>
-            <p class="mb-0 underline">12.08.2019</p>
-            <a href="#" class="balcksmall"><small>Read More</small></a>
-          </div>
-
-        </div>
-
-      </div>
-    </section>
-  <!-- Latest News from us -->
-
-
-
-  <!-- Marketing and statistics -->
-      <section class="booking">
-        <div class="container-fluid container-coco">
-          <div class="row mb-5">
-          <div class="col-12 text-center pb-4">
-            <h1 class="bighead">Marketing and Statistics</h1>
-          </div>
-          </div>
-
-
-          <div class="row">
-
-          <div class="col-12 col-md-6 mb-3">
-          <div class="coco-blog1">
-             <a href="single-blog.php">
-              <img src="img/cocoa.png" alt="" class="vasimg-blog1">
-              <div class="overlay-light-black-blog1"></div>
-              <div class="text-contain2-blog1">
-                <p class="wc cocomns mb-0">Annual cocoa <br> purchases</p>
-                <p class="w userblog1 mt-3">A regional  annual cocoa prices breakdown report. 
-See how we’ve made purchases across regions in Ghana.</p>
-            <p class="pt-5"> <img src="img/rightarr.svg" width="40" alt=""></p>
-
-              </div>
-            </a>
-          </div>
-          </div>
-
-          <div class="col-12 col-md-6 mb-3">
-          <div class="coco-blog1">
-            <a href="single-blog.php">
-              <img src="img/cocoabean.png" alt="" class="vasimg-blog1">
-              <div class="overlay-light-black-blog1"></div>
-              <div class="text-contain2-blog1">
-                <p class="wc cocomns mb-0">Cocoa bean export by destination.</p>
-                <p class="w userblog1 mt-3">This contains a detail report of cocoa beans exported
-to various destination from our shores here in Ghana</p>
-
-<p class="pt-5"> <img src="img/rightarr.svg" width="40" alt=""></p>
-              </div>
-            </a>
-          </div>
-          </div>
-          
-
-       </div>
-
-         
   
-
-        </div>
-      </section>
-  <!-- Marketing and statistics -->
-
-
-  <!-- Cocoa Price Update -->
-    <section>
-      <div class="container">
-        
-      </div>
-    </section>
-  <!-- Cocoa Price Update -->
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 
 
 

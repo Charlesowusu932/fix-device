@@ -61,6 +61,11 @@ body {
     font-size: 15px;
 }
 
+.balckmini {
+    color: #5c5c5c;
+    font-size: 13px;
+}
+
 .balcksmall:hover {
     text-decoration: none;
     color: #228dd7;
@@ -80,6 +85,13 @@ body {
 .fixglobalspace{
     padding-top: 5rem;
     padding-bottom: 5rem;
+    background: #f7f8f9;
+}
+
+.fixglobalspace2{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
 }
 
 .iconcircle {
@@ -93,8 +105,6 @@ body {
 }
 
 
-
-
 .active  {
     color: #228dd7;
 }
@@ -102,11 +112,6 @@ body {
 .nav-link:hover, .nav-link:focus {
     text-decoration: none;
     color: #228dd7;
-}
-
-
-listtins  {
-    display: list-item;
 }
 
 
@@ -124,11 +129,6 @@ listtins  {
     color: #ffffff;
 }
 
-.centerit {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 .btn-lg, .btn-group-lg > .btn {
     padding: 0.5rem 2rem;
@@ -136,6 +136,47 @@ listtins  {
     line-height: 1.5;
     border-radius: 0.2rem;
 }
+
+
+.centerit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub1 {
+    padding-top: 7.6rem;
+    padding-bottom: 7.6rem;
+    position: relative;
+}
+
+
+.left-cover {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    background: black;
+    background: url(../img/fixlaptop.jpg);
+    left: 0;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.tecni {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+
+}
+
+
+
+
+
+
 
 
 

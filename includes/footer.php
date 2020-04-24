@@ -7,7 +7,7 @@
 
 <!-- footer -->
   <footer class="fot py-5">
-      <div class="container-fluid container-coco">
+      <div class="container">
         <div class="row">
 
 
