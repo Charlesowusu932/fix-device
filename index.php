@@ -16,6 +16,8 @@
 
 
 
+
+  <!-- top cover -->
   <section class="topcover centerit">
    <div class="container "> 
      <div class="row ">
@@ -25,16 +27,89 @@
               <p class="white">
             Our Plartfrom connects electrical device repairs to students who need thier devices fixed without additional cost. In this short period of time does not affect the quality of work.
             </p>
+
+           <div class="mt-5">
+           <a href="#" class="btn btn-primary btn-lg ">Repair It</a>
+           </div>
           </div>
-
-       
-       <div class="col-12 col-md-7 pr-md-5 ">
-            
-       </div>
-
      </div>
    </div>
   </section>
+    <!-- top cover -->
+
+
+
+
+    <!-- services -->
+      <section class="fixglobalspace">
+        <div class="container">
+          <div class="row">
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/phone.svg" class="text-center"  alt="">
+                 </div>
+               <p class="blacknormal"><strong>Smartphone Repair</strong> </p>
+               <p class="blacknormal">If your phone has a broken front glass, non-responsive buttons, a broken camera we can fix it in house…</p>
+               </a>
+             </div>
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/ Mouse.svg" class="text-center" alt="">
+                 </div>
+               <p class="blacknormal"><strong>Computer Repair</strong> </p>
+               <p class="blacknormal">Repair technician will work with five general categories of hardware; desktop computers, laptops, servers…</p>
+               </a>
+             </div>
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/Electronic.svg" class="text-center" alt="">
+                 </div>
+               <p class="blacknormal"><strong>Electronics  Repair</strong> </p>
+               <p class="blacknormal">We repair appliances of any manufacturer in the shortest possible time. We give a guarantee…</p>
+               </a>
+             </div>
+
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/Game.svg" class="text-center"  alt="">
+                 </div>
+               <p class="blacknormal"><strong>Console Repair</strong> </p>
+               <p class="blacknormal">If your phone has a broken front glass, non-responsive buttons, a broken camera we can fix it in house…</p>
+               </a>
+             </div>
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/ Mouse.svg" class="text-center" alt="">
+                 </div>
+               <p class="blacknormal"><strong>Computer Repair</strong> </p>
+               <p class="blacknormal">Repair technician will work with five general categories of hardware; desktop computers, laptops, servers…</p>
+               </a>
+             </div>
+
+             <div class="col-6 col-md-4 mb-5">
+               <a href="">
+                 <div class="iconcircle centerit">
+                  <img src="img/Electronic.svg" class="text-center" alt="">
+                 </div>
+               <p class="blacknormal"><strong>Smartphone Repair</strong> </p>
+               <p class="blacknormal">If your phone has a broken front glass, non-responsive buttons, a broken camera we can fix it in house…</p>
+               </a>
+             </div>
+
+          </div>
+        </div>
+      </section>
+      <!-- services -->
 
   
 

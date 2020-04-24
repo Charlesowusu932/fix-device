@@ -60,18 +60,18 @@
           </li>
         
           <li class="nav-item">
-            <a class="nav-link pl-4 mainav" href="media.php">Media</a>
+            <a class="nav-link pl-4 mainav" href="services.php">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link pl-4 mainav" href="projects.php">Projects</a>
+            <a class="nav-link pl-4 mainav" href="technicians.php">Technicians</a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link pl-4 mainav" href="products.php">Products</a>
+            <a class="nav-link pl-4 mainav" href="contact.php">Contact Us</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link pl-4 mainav" href="resources.php">Resources</a>
+            <a class="nav-link pl-4 mainav btn btn-primary" href="fix.php">Fix a device</a>
           </li>
           </ul>
           <!-- main nav detials -->

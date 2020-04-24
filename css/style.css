@@ -17,7 +17,7 @@ body {
 
 
 .shrink {
-    background-color: #000000;
+    background-color: #11161a;
     padding-top: 0;
     -webkit-transition: all 0.5s ease-out;
     -moz-transition: all 0.5s ease-out;
@@ -67,6 +67,32 @@ body {
 }
 
 
+.blacknormal {
+    color: #000000;
+    font-size: 16px;
+}
+
+.blacknormal:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+.fixglobalspace{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.iconcircle {
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    background: #007bff;
+    border-radius: 150px;
+}
+
+
 
 
 .active  {
@@ -104,10 +130,21 @@ listtins  {
     justify-content: center;
 }
 
-.cocospace {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+.btn-lg, .btn-group-lg > .btn {
+    padding: 0.5rem 2rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
 }
+
+
+
+
+
+
+
+
+
 
 .underline {
     text-decoration: underline;
