@@ -239,6 +239,20 @@ a:hover {
 }
 
 
+.left-coverc {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    background: black;
+    background: url(../img/account.jpeg);
+    left: 0;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
 .form-fix {
 
     height: calc(1.5em + 0.75rem + 2px);
@@ -257,4 +271,19 @@ a:hover {
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0);
     border-bottom: 1px #007bff solid;
     border-radius: 0.01px;
+}
+
+.faqcard {
+    height: 7.4rem;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 0.3rem;
 }

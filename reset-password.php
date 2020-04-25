@@ -42,7 +42,7 @@
                                         </div>
 
                                         <div class="text-center mt-5">
-                                            <p>DHave an account?  <span> <a href="login.php">Login </a> </span></p>
+                                            <p> Have an account?  <span> <a href="login.php">Login </a> </span></p>
                                         </div>
 
                                     </form>
@@ -56,33 +56,8 @@
             </div>
         </div>
 
-        <!-- top cover -->
-        <!-- <section class="topcover centerit">
-<div class="container "> 
-<div class="row ">
 
-<div class="col-12 col-md-5 pr-md-3  ">
-
-<h1 class="bighead">Fast Repair All Your Devices.</h1>
-<p class="white">
-Our Plartfrom connects electrical device repairs to students who need thier devices fixed without additional cost. In this short period of time does not affect the quality of work.
-</p>
-
-<div class="mt-5">
-<a href="#" class="btn btn-primary btn-lg ">Repair It</a>
-</div>
-
-<div class="card">
-<div class="card-body">
-
-</div>
-</div>
-
-</div>
-</div>
-</div>
-</section> -->
-        <!-- top cover -->
+   
 
         <!-- footer includes -->
         <?php require_once("includes/footerlinks.php");?>
