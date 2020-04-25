@@ -108,7 +108,16 @@
                     </div>
                     
                     <div class="mb-3 col-12 col-md-6">
-                    <input type="text" class="form-control form-fix" placeholder="Enter courses">
+                    <input type="text" class="form-control form-fix" placeholder="Enter course">
+                    </div>
+
+
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="password" class="form-control form-fix" placeholder="Enter password">
+                    </div>
+
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="password" class="form-control form-fix" placeholder="Confirm password">
                     </div>
                 </div>
 
