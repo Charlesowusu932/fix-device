@@ -34,8 +34,7 @@
 
 
                                 <div class="row">
-
-                                    <div class="col-6 col-md-6 text-center mb-3">
+                                    <div class="col-6 col-md-6 text-center mb-3 pointer" data-toggle="modal" data-target=".bd-example-modal-studet">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                         <img src="img/student.svg" alt="" width="50" >
@@ -66,33 +65,36 @@
             </div>
         </div>
 
-        <!-- top cover -->
-        <!-- <section class="topcover centerit">
-<div class="container "> 
-<div class="row ">
 
-<div class="col-12 col-md-5 pr-md-3  ">
+        
+        <!-- student form -->
+            <div class="modal fade bd-example-modal-studet" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                <div class="modal-body">
+                    <form>
+                    <div class="form-group">
+                        <label for="recipient-name" class="col-form-label">Recipient:</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Message:</label>
+                        <textarea class="form-control" id="message-text"></textarea>
+                    </div>
+                    </form>
+                </div>
+                </div>
+            </div>
+            </div>
+        <!-- student form -->
 
-<h1 class="bighead">Fast Repair All Your Devices.</h1>
-<p class="white">
-Our Plartfrom connects electrical device repairs to students who need thier devices fixed without additional cost. In this short period of time does not affect the quality of work.
-</p>
+        
+        <!-- technician form -->
+        <!-- technician form -->
 
-<div class="mt-5">
-<a href="#" class="btn btn-primary btn-lg ">Repair It</a>
-</div>
 
-<div class="card">
-<div class="card-body">
 
-</div>
-</div>
-
-</div>
-</div>
-</div>
-</section> -->
-        <!-- top cover -->
+      
 
         <!-- footer includes -->
         <?php require_once("includes/footerlinks.php");?>
