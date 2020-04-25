@@ -119,6 +119,10 @@
                     <div class="mb-3 col-12 col-md-6">
                     <input type="password" class="form-control form-fix" placeholder="Confirm password">
                     </div>
+
+                    <div class="mt-4 text-center">
+                            <button type="submit" class="btn btn-primary btn-lg btn-block ">Get Started</button>
+                     </div>
                 </div>
 
 
