@@ -289,3 +289,31 @@ a:hover {
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 0.3rem;
 }
+
+.globalbc {
+    background: #f7f8f9;
+}
+
+.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #f7f8f9;
+    background-clip: padding-box;
+    border: 1px solid rgb(247, 248, 249);
+    border-radius: 0.3rem;
+    outline: 0;
+}
+
+.custom-select, .form-control {
+    border-radius: 0.01rem;
+    background-color: #ffffff;
+    padding: 0.675rem 0.75rem;
+    border: 1px solid     border: 1px solid #f1f1f1;
+    height: auto;
+
+}

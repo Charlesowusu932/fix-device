@@ -34,7 +34,7 @@
 
 
                                 <div class="row">
-                                    <div class="col-6 col-md-6 text-center mb-3 pointer" data-toggle="modal" data-target=".bd-example-modal-studet">
+                                    <div class="col-6 col-md-6 text-center mb-3 pointer" data-toggle="modal" data-target=".bd-example-modal-student">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                         <img src="img/student.svg" alt="" width="50" >
@@ -43,7 +43,7 @@
                                     </div>
                                     </div>
 
-                                    <div class="col-6 col-md-6 text-center mb-3">
+                                    <div class="col-6 col-md-6 text-center mb-3 pointer" data-toggle="modal" data-target=".bd-example-modal-technician">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                         <img src="img/technician.svg" alt="" width="50">
@@ -68,8 +68,62 @@
 
         
         <!-- student form -->
-            <div class="modal fade bd-example-modal-studet" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
+            <div class="modal   fade bd-example-modal-student" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                <div class="modal-body">
+                <form>
+                    
+                <div class="form-row ">
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="text" class="form-control form-fix" placeholder="Enter first name">
+                    </div>
+                    
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="text" class="form-control form-fix" placeholder="Enter Last name">
+                    </div>
+                </div>
+
+                <div class="form-row ">
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="email" class="form-control form-fix" placeholder="Enter Email address">
+                    </div>
+                    
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="text" class="form-control form-fix" placeholder="Enter phone number">
+                    </div>
+
+                    <div class="mb-3 col-12 col-md-12">
+                    <select name="" id="" class=" custom-select form-control form-fix">
+                    <option selected>Select your Instituation...</option>
+                        <option value="University of Professional Studies">University of Professional Studies, Accra</option>
+                        <option value="University of Ghana">University of Ghana</option>
+                        <option value="Kwame Nkrumah University of Science and Technology">Kwame Nkrumah University of Science and Technology</option>
+                        <option value="Regent University College of Science and Technology">Regent University College of Science and Technology</option>
+                    </select>
+                    </div>
+
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="text" class="form-control form-fix" placeholder="Enter your Student ID">
+                    </div>
+                    
+                    <div class="mb-3 col-12 col-md-6">
+                    <input type="text" class="form-control form-fix" placeholder="Enter courses">
+                    </div>
+                </div>
+
+
+                </form>
+                </div>
+                </div>
+            </div>
+            </div>
+        <!-- student form -->
+
+        
+        <!-- technician form -->
+        <div class="modal  fade bd-example-modal-technician" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
                 <div class="modal-content">
                 <div class="modal-body">
                     <form>
@@ -86,10 +140,6 @@
                 </div>
             </div>
             </div>
-        <!-- student form -->
-
-        
-        <!-- technician form -->
         <!-- technician form -->
 
 
