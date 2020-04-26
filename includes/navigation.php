@@ -15,7 +15,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link smallnavtop" href="#">+233 234 7892 34</a>
+                        <a class="nav-link smallnavtop" href="#">+233 24 677 1647</a>
                     </li>
                 </ul>
                 <!-- small details at the top -->
