@@ -191,7 +191,7 @@
                               </div>
                           </div>
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -207,7 +207,7 @@
                           </div>
 
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -223,7 +223,7 @@
                           </div>
 
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -238,7 +238,7 @@
                               </a>
                           </div>
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -253,7 +253,7 @@
                               </a>
                           </div>
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -268,7 +268,7 @@
                               </a>
                           </div>
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -284,7 +284,7 @@
                           </div>
 
                           
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -299,7 +299,7 @@
                               </a>
                           </div>
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
@@ -315,7 +315,7 @@
                           </div>
 
 
-                          <div class="col-12  col-md-4 mb-3 px-2 text-center">
+                          <div class="col-6  col-md-4 mb-3 px-2 text-center">
                               <a href="">
                               <div class="card concard2">
                                   <div class="card-body blacknormal2">
