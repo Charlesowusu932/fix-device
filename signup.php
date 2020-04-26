@@ -135,7 +135,7 @@
             <!-- technician form -->
             <div class="modal globalbc  fade bd-example-modal-technician" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-                    <div class="modal-content">
+                    <div class="modal-content px-md-4">
                         <div class="text-center mb-4">
                             <h2 class="mt-4"><strong>Sign up as a Technician</strong> </h2>
                             <p>Complete the from below</p>
