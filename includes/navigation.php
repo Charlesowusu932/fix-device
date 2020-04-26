@@ -30,7 +30,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link pl-4 mainav" href="services.php">Services</a>
+                        <a class="nav-link pl-4 mainav" href="shop.php">Shop</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link pl-4 mainav" href="technicians.php">Technicians</a>

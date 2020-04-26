@@ -91,7 +91,7 @@
 
                                         <div class="form-group">
                                             <label for="exampleFormControlTextarea1">Your Message</label>
-                                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Type here..."></textarea>
                                         </div>
                                                                                 
                                         
