@@ -182,8 +182,6 @@ body {
 }
 
 
-
-
 a {
 
     text-decoration: none;
@@ -339,6 +337,17 @@ a:hover {
 
 .biggerf {
     font-size: 22px;
+}
+
+.viewmap a {
+    color: white;
+}
+
+.concard {
+
+    background-color: #f5f5f5;
+    border: 1px solid rgb(255, 255, 255);
+ 
 }
 
 /* contact us */

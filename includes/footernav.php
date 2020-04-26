@@ -50,7 +50,7 @@
           <div class="col-xl-3">
           <p class="wc"><strong>Contacts</strong></p>
               <ul class="cocul">
-                <li class="py-1 class="balcksmall">Address: 685 Lane Drive St. Dansoman, 33020s</li>
+                <li class="py-1 class="balcksmall">Address: 685 Kofi ne Ama St. Dansoman, Accra</li>
 
                 <li class="py-1 class="balcksmall">Phone: +233 234 7892 34</li>
 
