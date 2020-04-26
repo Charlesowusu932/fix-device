@@ -398,9 +398,10 @@ a .blacknormal2 {
 
 .selfreapir{
     height: 50vh;
-    background: #11161a;
+    background: linear-gradient(to bottom right,rgba(0, 0, 0, 0.71),rgba(0, 0, 0, 0.95)), url(../img/rrrr.jpeg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center top;
     background-size: cover;
 }
 /* self repair */
+
