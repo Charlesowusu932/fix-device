@@ -351,3 +351,18 @@ a:hover {
 }
 
 /* contact us */
+
+
+/* technician */
+.technician {
+    height: 45vh;
+    background: linear-gradient(to bottom right,rgba(0, 0, 0, 0.71),rgba(0, 0, 0, 0.95)), url(../img/reset.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.pushuuni {
+    margin-top: -5rem;
+}
+/* technician */

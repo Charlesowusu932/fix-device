@@ -27,11 +27,11 @@
             <p class="wc"><strong>Quick Links</strong></p>
             
               <ul class="cocul">
-                <li class="py-1 "> <a href="#" class="balcksmall">Home</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">About Us</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Shop</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Technicians</a></li>
-                <li class="py-1 "> <a href="#" class="balcksmall">Contact Us</a></li>
+                <li class="py-1 "> <a href="index,php" class="balcksmall">Home</a></li>
+                <li class="py-1 "> <a href="about_us.php" class="balcksmall">About Us</a></li>
+                <li class="py-1 "> <a href="shop.php" class="balcksmall">Shop</a></li>
+                <li class="py-1 "> <a href="technicians.php" class="balcksmall">Technicians</a></li>
+                <li class="py-1 "> <a href="contact" class="balcksmall">Contact Us</a></li>
               </ul>
           </div>
 
