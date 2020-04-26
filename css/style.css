@@ -329,4 +329,16 @@ a:hover {
 
 /* contact us */
 
+.contact{
+    height: 45vh;
+    background: #11161a;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.biggerf {
+    font-size: 22px;
+}
+
 /* contact us */
