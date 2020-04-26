@@ -291,7 +291,7 @@ a:hover {
 }
 
 .globalbc {
-    background: #f7f8f9;
+    background: rgba(255, 255, 255, 0.68);
 }
 
 .modal-content {
