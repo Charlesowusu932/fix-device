@@ -77,8 +77,15 @@
                    <div class="row">
 
                    <div class="col-12 col-md-3">
-                     <div class="card">
+                     <div class="card concard">
                          <div class="card-body">
+                            
+                         <!-- Speciality-->
+                            <div class="my-4">
+                            <h6><strong>Speciality</strong></h6>
+                            </div>
+                         <!-- <h5><strong>Public relations</strong></h5> -->
+
 
                          </div>
                      </div>
