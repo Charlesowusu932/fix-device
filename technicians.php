@@ -82,9 +82,98 @@
                             
                          <!-- Speciality-->
                             <div class="my-4">
-                            <h6><strong>Speciality</strong></h6>
+                            <h6 class="mb-3"><strong>Speciality</strong></h6>
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checkphones">
+                                <label class="custom-control-label" for="checkphones">Smartphone Repairs</label>
                             </div>
-                         <!-- <h5><strong>Public relations</strong></h5> -->
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checkcomputer">
+                                <label class="custom-control-label" for="checkcomputer">Computer Repairs</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checkconsole">
+                                <label class="custom-control-label" for="checkconsole">Cosole Repairs</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checkdata">
+                                <label class="custom-control-label" for="checkdata">Data Recovery</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checkelectronics">
+                                <label class="custom-control-label" for="checkelectronics">Data Recovery</label>
+                            </div>
+                            <hr>
+                            </div>
+                          <!-- Speciality-->
+
+                            <!-- Experience-->
+                            <div class="my-4">
+                            <h6 class="mb-3"><strong>Experience</strong></h6>
+
+                            <div class="custom-control custom-radio mb-2"">
+                                <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio1">1 Year</label>
+                                </div>
+
+                                <div class="custom-control custom-radio mb-2"">
+                                <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio2">2 Years</label>
+                                </div>
+
+                                <div class="custom-control custom-radio mb-2"">
+                                <input type="radio" id="customRadio3" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio3">3 Years</label>
+                                </div>
+
+                                <div class="custom-control custom-radio mb-2"">
+                                <input type="radio" id="customRadio4" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio4">4 Years</label>
+                                </div>
+
+                                <div class="custom-control custom-radio mb-2"">
+                                <input type="radio" id="customRadio5" name="customRadio" class="custom-control-input">
+                                <label class="custom-control-label" for="customRadio5">5+ Years</label>
+                                </div>
+                            <hr>
+                            </div>
+                          <!-- Experience-->
+
+                           <!-- Fix Device Ratings-->
+                           <div class="my-4">
+                            <h6 class="mb-3"><strong>Fix Device Ratings</strong></h6>
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="check1">
+                                <label class="custom-control-label" for="check1">1 Star</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="check2">
+                                <label class="custom-control-label" for="check2">2 Stars</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="check3">
+                                <label class="custom-control-label" for="check3">3 Stars</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="check4">
+                                <label class="custom-control-label" for="check4">4 Stars</label>
+                            </div>
+
+                            <div class="custom-control custom-checkbox mb-2">
+                                <input type="checkbox" class="custom-control-input" id="checke5">
+                                <label class="custom-control-label" for="checke5">5 Stars</label>
+                            </div>
+                            <hr>
+                            </div>
+                          <!-- Fix Device Ratings-->
+
 
 
                          </div>
