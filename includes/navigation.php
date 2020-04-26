@@ -1,10 +1,10 @@
 <nav class="fixed-top  showit">
     <div class="container">
         <div class="row py-3">
-            <div class="col-4 col-md-4">
+            <div class="col-4 col-md-3 mt-3">
                 <a href="index.php"><img src="img/fixdevicelogo.svg" class="img-fluid" width="150"></a>
             </div>
-            <div class="col-8 col-md-8">
+            <div class="col-8 col-md-9">
                 <!-- small details at the top -->
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
@@ -36,6 +36,10 @@
                         <a class="nav-link pl-4 mainav" href="technicians.php">Technicians</a>
                     </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link pl-4 mainav" href="self-repair.php">Self Repair</a>
+                    </li>
+å
                     <li class="nav-item">
                         <a class="nav-link pl-4 mainav" href="contact.php">Contact Us</a>
                     </li>

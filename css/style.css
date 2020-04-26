@@ -52,6 +52,7 @@ body {
 .mainav {
     color: #ffffff;
     font-weight: 600;
+    font-size: 15px;
 }
 
 .orange {
@@ -391,3 +392,15 @@ a .blacknormal2 {
 }
 
 /* technician */
+
+
+/* self repair */
+
+.selfreapir{
+    height: 50vh;
+    background: #11161a;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* self repair */

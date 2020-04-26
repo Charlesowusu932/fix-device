@@ -31,6 +31,7 @@
                 <li class="py-1 "> <a href="about_us.php" class="balcksmall">About Us</a></li>
                 <li class="py-1 "> <a href="shop.php" class="balcksmall">Shop</a></li>
                 <li class="py-1 "> <a href="technicians.php" class="balcksmall">Technicians</a></li>
+                <li class="py-1 "> <a href="self-repair.php" class="balcksmall">Self Repair</a></li>
                 <li class="py-1 "> <a href="contact" class="balcksmall">Contact Us</a></li>
               </ul>
           </div>
