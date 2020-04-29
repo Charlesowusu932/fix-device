@@ -21,7 +21,7 @@
 
                         <div class="col-12 text-center mt-5 ">
                             <h1 class="bighead">Fix Design</h1>
-                            <p class="white">Get your device fixed, Select your option</p>
+                            <p class="white">What type of device do you want to repair</p>
 
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqflag.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">Getting Started</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Smartphone Repair</p>
                                         </div>
                                     </div>
                                     </a>
@@ -53,7 +53,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqpricing.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">Pricing</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Computer Repair</p>
                                         </div>
                                     </div>
                                     </a>
@@ -64,7 +64,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqguid.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">User Guide</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Electronics Repair</p>
                                         </div>
                                     </div>
                                     </a>
@@ -75,7 +75,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqInformation.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">Information</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Console Repair</p>
                                         </div>
                                     </div>
                                     </a>
@@ -86,7 +86,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqInformation.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">Information</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Data Recoveries</p>
                                         </div>
                                     </div>
                                     </a>
@@ -97,7 +97,7 @@
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
                                             <img src="img/faqInformation.svg" alt="">
-                                            <p class="faqtoptabtt balcksmall mt-2">Information</p>
+                                            <p class="faqtoptabtt balcksmall mt-2">Consultation</p>
                                         </div>
                                     </div>
                                     </a>
