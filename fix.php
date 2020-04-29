@@ -21,7 +21,7 @@
 
                         <div class="col-12 text-center mt-5 ">
                             <h1 class="bighead">Fix Design</h1>
-                            <p class="white">What type of device do you want to repair</p>
+                            <p class="white">What type of device do you want to repair, Click on the your prefered option</p>
 
                         </div>
                     </div>
@@ -37,66 +37,66 @@
                         <div class="col-12 col-md-8 mx-auto">
                             <div class="row">
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqflag.svg" alt="">
+                                            <img src="img/phone11.svg" width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Smartphone Repair</p>
                                         </div>
                                     </div>
                                     </a>
                                 </div>
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqpricing.svg" alt="">
+                                            <img src="img/computingmouse.svg" width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Computer Repair</p>
                                         </div>
                                     </div>
                                     </a>
                                 </div>
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqguid.svg" alt="">
+                                            <img src="img/circuit111.svg" width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Electronics Repair</p>
                                         </div>
                                     </div>
                                     </a>
                                 </div>
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqInformation.svg" alt="">
+                                        <img src="img/Game.svg" class="text-center"  width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Console Repair</p>
                                         </div>
                                     </div>
                                     </a>
                                 </div>
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqInformation.svg" alt="">
+                                        <img src="img/Recover.svg" class="text-center" width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Data Recoveries</p>
                                         </div>
                                     </div>
                                     </a>
                                 </div>
 
-                                <div class="col-6 col-md-4 text-center mb-3">
+                                <div class="col-6 col-md-6 col-lg-4 text-center mb-3">
                                     <a href="">
                                     <div class="card faqcard shadow">
                                         <div class="card-body">
-                                            <img src="img/faqInformation.svg" alt="">
+                                            <img src="img/interface.svg" width="50" alt="">
                                             <p class="faqtoptabtt balcksmall mt-2">Consultation</p>
                                         </div>
                                     </div>
