@@ -290,7 +290,7 @@ a:hover {
     transition: all 1s;
 }
 .faqcard:hover {
-    background-color: rgba(0, 123, 255, 0.08);
+    background-color: rgb(214, 230, 247);
     box-shadow: 0 0.5rem 0rem rgba(0, 0, 0, 0.15) !important;
 }
 
@@ -404,4 +404,13 @@ a .blacknormal2 {
     background-size: cover;
 }
 /* self repair */
+
+
+
+/* fix device */
+.faqcup {
+    position: relative;
+    top: -4rem;
+}
+/* fix device */
 
